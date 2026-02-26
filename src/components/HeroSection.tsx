@@ -25,7 +25,7 @@ const HeroSection = () => {
       {/* Decorative logo watermark */}
       <div className="absolute right-8 top-1/2 -translate-y-1/2 opacity-[0.03] pointer-events-none hidden lg:block">
         <img
-          src="/images/logo-redonda.jpeg"
+          src="https://github.com/hendrytechfloripa/sitehendrytech/blob/main/public/images/logo-redonda.jpeg?raw=true"
           alt=""
           className="h-[450px] w-auto object-contain rounded-full"
         />
@@ -109,7 +109,7 @@ const HeroSection = () => {
             <div className="absolute inset-0 rounded-full bg-[radial-gradient(circle,hsl(var(--accent)/0.15)_0%,transparent_70%)] scale-110 blur-2xl" />
             
             <img
-              src="/images/logo-redonda.jpeg"
+              src="https://github.com/hendrytechfloripa/sitehendrytech/blob/main/public/images/logo-redonda.jpeg?raw=true"
               alt="Hendry Tech Logo"
               className="relative w-56 h-56 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full object-cover border-2 border-primary/25 shadow-[0_20px_60px_hsl(var(--primary)/0.25)] animate-float hover:border-primary/40 transition-all duration-300"
             />

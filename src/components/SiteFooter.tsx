@@ -39,7 +39,7 @@ const SiteFooter = () => {
           <motion.div variants={itemVariants}>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/images/logo-redonda.jpeg"
+                src="https://github.com/hendrytechfloripa/sitehendrytech/blob/main/public/images/logo-redonda.jpeg?raw=true"
                 alt="Hendry Tech"
                 className="w-12 h-12 rounded-full object-cover border-2 border-primary/30 hover:border-primary/60 transition-all duration-300 shadow-[0_4px_12px_hsl(var(--primary)/0.2)]"
               />

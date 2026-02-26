@@ -47,7 +47,7 @@ const SiteHeader = () => {
         >
           <div className="flex flex-col items-center gap-0">
             <img
-              src="/images/logo.jpeg"
+              src="https://github.com/hendrytechfloripa/sitehendrytech/blob/main/public/images/logo-redonda.jpeg?raw=true"
               alt="Hendry Tech - Assistência Técnica"
               className="h-12 md:h-14 w-auto object-contain rounded-lg drop-shadow-[0_2px_8px_hsl(var(--primary)/0.25)] group-hover:drop-shadow-[0_4px_16px_hsl(var(--primary)/0.4)] transition-all duration-300"
             />
